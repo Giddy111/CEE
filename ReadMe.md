@@ -1,6 +1,6 @@
 ![Screenshot (48)](https://user-images.githubusercontent.com/33707645/213482017-970334e5-9c4d-41f9-abab-4ce9194ee74b.png)
 ![Screenshot (52)](https://user-images.githubusercontent.com/33707645/213482051-6dbc92a5-81af-47d2-acdf-5b3129bfc83a.png)
-![Screenshot (53)](https://user-images.githubusercontent.com/33707645/213482092-73a2e55b-5ac2-4d96-9b5b-b4ca2dde7c47.png)
+![Screenshot (53)](https://user-images.githubusercontent.com/33707645/213483503-bb056035-6dfc-4732-a97d-759c5bbaa377.png)
 ![Screenshot (50)](https://user-images.githubusercontent.com/33707645/213482115-fc93cc0b-41a4-41c7-8b02-d316e0021d99.png)
 
 # Admin Login Access Information
@@ -26,7 +26,7 @@
 # INSTRUCTION:
 - Copy the folder to C:/xampp/htdocs/
 
-# TO RUN THE Examination System:
+# TO RUN THE EXAMINATION SYSTEM:
 - Click on the "Admin" button beside the MySQL "start/stop" button and it will automatically redirect you to the PHPMyAdmin interface 
 - On the side nav or sidebar you will see a list of databases, click on "New" to create a new database 
 - Type the name of the new database in the box and click on the "create" button - (cee_db.sql)
